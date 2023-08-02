@@ -1,4 +1,4 @@
-#Gamecandy - an attempt at candy crush
+#Gamecandy - an attempt at candy crush ( made with the help of video from kishan sheth's channel )
 
 Screenshots - 
 
